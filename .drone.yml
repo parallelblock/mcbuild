@@ -2,4 +2,4 @@ pipeline:
   build:
     image: plugins/docker
     repo: parallelblock/mcbuild
-
+    secrets: [docker_username, docker_password]
