@@ -3,3 +3,4 @@ pipeline:
     publish:
       image: plugins/docker
       repo: parallelblock/mcbuild
+
