@@ -1,3 +1,3 @@
 FROM dockette/mvn
 
-RUN apk --no-cache add git bash
+RUN apk --no-cache add git bash curl
